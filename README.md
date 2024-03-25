@@ -1,2 +1,3 @@
 # Tableau---Heatlhcare
 https://public.tableau.com/app/profile/prashant.verma2908/viz/Healthcare_17110050684590/Dashboard1?publish=yes
+This repository contains a Tableau dashboard for healthcare data analysis. The dataset used for this analysis includes information about total costs, average length of stay, demographic analysis, clinical insights, severity by mortality, mortality by gender, hospital performance, and common diagnosis analysis. The data was processed and cleaned using Python and its libraries such as Pandas and NumPy. The cleaned data was then analyzed using Tableau to create insightful visualizations on healthcare metrics.
